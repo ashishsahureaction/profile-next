@@ -1,0 +1,66 @@
+--------Header section --------------
+# Menus
+Projects
+Technologies
+About me
+
+--------banner section--------------
+# heading
+Hello, I'm Ashish, 
+frontend developer
+## sub heading
+Former digital-marketing specialist, seeking to apply competent development skills with focus on collaboration, communication, and passion
+
+
+--------Projects--------------
+-> Project 1
+# heading
+Furniture store landing page
+# sub heading
+Responsive HTML/CSS layout for online furniture store. HTML5, CSS3 (SCSS)
+
+-> Project 2
+# heading
+Designer furniture store landing page
+# sub heading
+Responsive HTML/CSS layout for online store of designer furniture. HTML5, CSS3 (SCSS)
+
+-> Project 3
+# heading
+Landing page for front-end developer
+# sub heading
+Responsive HTML/CSS layout for landing page for front-end developer. HTML5, CSS3 (SCSS)
+
+-> Project 4
+# heading
+Website redesign for The Venus project
+# sub heading
+Responsive HTML/CSS layout for The Venus project. HTML5, CSS3 (SCSS)
+
+--------Technologies--------------
+-> Lists of items
+Html
+CSS, Sass, SCSS, Tailwind & Bootstrap
+JavaScript, TypeScript, JQuery
+UI design in Figma and Framer
+Angular
+React
+NextJs
+Redux
+NodeJs, ExpressJs,MangoDb
+
+--------Additional technologies and skills--------------
+-> Lists of items
+Git
+Wordpress
+Teamwork
+Quick learning
+Engagement
+B2 english
+RWD
+
+--------About me--------------
+"I completed my studies in India in 2009 and subsequently worked for over 7 years as a Circle Manager at a bank until 2015."
+"Growing interest in IT led me to explore programming. After completing a JavaScript course, I developed a project and transitioned to a career in IT in 2015."
+2016
+Worked out in which field I want to build a developer's career and started to learn Frontend Development.
